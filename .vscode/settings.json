@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "D:\\Anaconda3\\envs\\spider\\python.exe",
+    "sqltools.connections": [
+        {
+            "database": "Job51",
+            "dialect": "MySQL",
+            "name": "前程无忧",
+            "password": "123456",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}

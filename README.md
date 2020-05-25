@@ -15,8 +15,30 @@
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
+1.  安装python依赖
+
+```python
+pip install -r requirements.txt
+```
+2.  连接数据库并创建数据表
+
+首先确保运行机器上有MySQL数据库，然后登陆数据库并创建数据库
+
+- 创建数据库
+
+  ```mysql
+  CREATE DATABASE `job51` /*!40100 DEFAULT CHARACTER SET utf8 */
+  ```
+
+
+- 创建数据表
+
+  ```python
+  python -u create_tables.py
+  ```
+  
+  
+
 3.  xxxx
 
 #### 使用说明
