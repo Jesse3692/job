@@ -1,7 +1,7 @@
 autopep8 == 1.4.4
 fake-useragent == 0.1.11
 Flask == 1.1.1
-lxml == 3.8.0
+lxml == 4.9.1
 pycodestyle == 2.5.0
 PyMySQL == 0.9.3
 requests == 2.14.2
